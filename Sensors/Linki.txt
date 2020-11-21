@@ -1,0 +1,9 @@
+Bateria:
+https://izimarket.pl/Akumulator-bateria-8800-mAh-18650-Li-ion-3-7V-p90434
+
+Rzeczy do ESP z Arduino:
+https://github.com/esp8266/Arduino
+https://github.com/nodemcu
+
+Czujnik dźwięku:
+https://www.waveshare.com/wiki/Sound_Sensor

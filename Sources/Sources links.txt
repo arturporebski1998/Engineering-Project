@@ -1,0 +1,2 @@
+MQTT Communication:
+https://www.youtube.com/watch?v=hdN3JT4NFl0&t
